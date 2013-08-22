@@ -1,0 +1,1 @@
+Gwildor is a toy language written for practice and experience. I followed Jay Conrod's tutorial for writing a simple interpreter from scratch in python found here: http://www.jayconrod.com/posts/37/a-simple-interpreter-from-scratch-in-python-part-1
